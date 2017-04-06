@@ -7,7 +7,7 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w1046318068_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm1.staticflickr.com/682/23349929165_09a2573288_o.png" tvg-name="TV 3"  group-title="MALAYSIA",TV3
-https://ustreamix.com/tmg.m3u8?stream=tv3-malaysia-v2&token=3fcccffa6b63c3e93fdce1c86a303e67
+https://ustreamix.com/tmg.m3u8?stream=tv3-malaysia-v2&expired=0&token=3fcccffa6b63c3e93fdce1c86a303e67
 #http://tv3iossecure-i.akamaihd.net/hls/live/225715/ios/tv3ios_sp/master402.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm1.staticflickr.com/682/23349929165_09a2573288_o.png" tvg-name="TV 7"  group-title="MALAYSIA",TV7
