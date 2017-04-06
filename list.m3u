@@ -10,7 +10,7 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w1046318068_
 https://ustreamix.com/tmg.m3u8?stream=tv3-malaysia&token=3fcccffa6b63c3e93fdce1c86a303e67
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm6.staticflickr.com/5649/23266549891_c95f64f7a9_o.png" tvg-name="TV 9"  group-title="MALAYSIA",TV9
-https://hls.ustreamix.com/tmg.m3u8?stream=tv9-malaysia&token=24cdf4e5e7560a8e52643a499395263f
+https://ustreamix.com/tmg.m3u8?stream=tv9-malaysia&token=3fcccffa6b63c3e93fdce1c86a303e67
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png" tvg-name="RTM MUZIK AKTIF"  group-title="MALAYSIA",MUZIK AKTIF
 http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
