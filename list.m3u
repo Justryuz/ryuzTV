@@ -8,9 +8,13 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w1046318068_
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm1.staticflickr.com/682/23349929165_09a2573288_o.png" tvg-name="TV 3"  group-title="MALAYSIA",TV3
 https://ustreamix.com/tmg.m3u8?stream=tv3-malaysia-v2&token=3fcccffa6b63c3e93fdce1c86a303e67
+#http://tv3iossecure-i.akamaihd.net/hls/live/225715/ios/tv3ios_sp/master402.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm1.staticflickr.com/682/23349929165_09a2573288_o.png" tvg-name="TV 7"  group-title="MALAYSIA",TV7
+http://ntv7iossecure-i.akamaihd.net/hls/live/225716/ios/ntv7ios_sp/master503.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm6.staticflickr.com/5649/23266549891_c95f64f7a9_o.png" tvg-name="TV 9"  group-title="MALAYSIA",TV9
-https://ustreamix.com/tmg.m3u8?stream=tv9-malaysia&token=3fcccffa6b63c3e93fdce1c86a303e67
+http://tv9iossecure-i.akamaihd.net/hls/live/225718/ios/tv9ios_sp/master403.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png" tvg-name="RTM MUZIK AKTIF"  group-title="MALAYSIA",MUZIK AKTIF
 http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
