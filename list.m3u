@@ -1,21 +1,21 @@
 #EXTM3U
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/TV1_Logo_2011.png" tvg-name="RTM TV1"  group-title="MALAYSIA",TV1
-http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch001.stream_360p/playlist.m3u8
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" tvg-name="RTM TV2"  group-title="MALAYSIA",TV2
-http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch003.stream_360p/playlist.m3u8
+http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/media_w227034169_b1000000_sleng_2559.ts
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png" tvg-name="TVi"  group-title="MALAYSIA",TVi
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png" tvg-name="RTM TVi"  group-title="MALAYSIA",TVi
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png" tvg-name="MUZIK AKTIF"  group-title="MALAYSIA",MUZIK AKTIF
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png" tvg-name="RTM MUZIK AKTIF"  group-title="MALAYSIA",MUZIK AKTIF
 http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png" tvg-name="1NEWS"  group-title="MALAYSIA",1NEWS
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png" tvg-name="RTM 1NEWS"  group-title="MALAYSIA",1NEWS
 http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/parlimen.png" tvg-name="PARLIMEN TV"  group-title="MALAYSIA",PARLIMEN TV
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/parlimen.png" tvg-name="RTM PARLIMEN TV"  group-title="MALAYSIA",PARLIMEN TV
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
@@ -27,6 +27,7 @@ http://playback01.aotg-video.astro.com.my/AOTGHLS/master_GOSHOP_8_04.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png" tvg-name="BERNAMA"  group-title="MALAYSIA",BERNAMA
 http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
 
+#---------------------INDONESIA
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue][_____INDONESIA_____][/COLOR]"  group-title="Group N/A",[COLOR deepskyblue][_____INDONESIA_____][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/314954_ee0621e8a1133cfada4f0b43fd14d38d/m3u8s/314954.m3u8
 
@@ -63,6 +64,7 @@ rtmp://43.245.183.170/kompastv/ playpath=live.stream swfUrl=http://www.widih.com
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/nn/net_tv_id.png" tvg-name="NET. (Kodi)"  group-title="Group N/A",NET. (Kodi)
 http://id.stream.netmedia.co.id/live/nettv_hi/index.m3u8
 
+#---------------------BERITA
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR slateblue][_____NEWS_____][/COLOR]"  group-title="Group N/A",[COLOR slateblue][_____NEWS_____][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
 
@@ -75,18 +77,33 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png" tvg-name="BLOOMBERG"  group-title="NEWS",BLOOMBERG
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
+#---------------------KIDS
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR fuchsia][_____KIDS_____][/COLOR]"  group-title="Group N/A",[COLOR fuchsia][_____KIDS_____][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/285894_9ac2cf0d1b3dca597520d20b02bce02c/m3u8s/285894.m3u8
 
+#---------------------DOKUMENTARI
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine][_____DOCUMENTARY_____][/COLOR]"  group-title="Group N/A",[COLOR aquamarine][_____DOCUMENTARY_____][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
 
 #EXTINF:-1,CHINA: LIVE CCTV iPANDA
 http://fms.cntv.lxdns.com/live/flv/channel97.flv
 
+#EXTINF:-1,ANIMAL PLANET
+http://109.226.107.174:4022/udp/232.0.1.48:1234
+
+#EXTINF:-1,NAT GEO WILD HD
+http://217.151.235.220:8000/udp/239.255.0.147:1234
+
+#EXTINF:-1,NAT GEO WILD
+http://109.226.107.174:4022/udp/232.0.1.48:1234
+
+#EXTINF:-1,HISTORY
+http://151.249.179.29:34040/udp/224.200.246.40:3527
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png" tvg-name="NASA TV"  group-title="NEWS",NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
+#---------------------FAMILY Entertainment
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen][_____FAMILY_____][/COLOR]"  group-title="Group N/A",[COLOR springgreen][_____FAMILY_____][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
 
@@ -99,12 +116,14 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PLAYY WEST"  group-title="KOREA",PLAYY WEST
 http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
 
+#---------------------MUSIC
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR cyan][B][_____MUSIC_____][/B][/COLOR]"  group-title="Group N/A",[COLOR cyan][B][_____MUSIC_____][/B][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/312804_4f15cdaaf3a74440cd1343c1dad9ad47/m3u8s/312804.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/kk/kita_tv_id.png" tvg-name="KITA TV"  group-title="Group N/A",KITA TV
 http://www.kitatv.com:1935/live/mp4:myStream/playlist.m3u8
 
+#---------------------RADIO
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR gold][_____RADIO_____][/COLOR]"  group-title="Group N/A",[COLOR gold][_____RADIO_____][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144770_989b4dcb1cc1afad58fac51b8afafd84/m3u8s/144770.m3u8
 
@@ -165,6 +184,10 @@ http://192.111.140.6:8131/;stream.mp3
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.img.co/radio/11/40/44011_290.png" tvg-name="SARAWAK FM"  group-title="Malaysia",SARAWAK FM
 http://124.82.221.149:8000/;stream.mp3
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://4.bp.blogspot.com/-y3zJjMCTR0E/VUNkXmjKlcI/AAAAAAAAD0o/ZHqilfOBPgI/s200/RADIOUSIM1.png" tvg-name="Radio USIM"  group-title="Malaysia",USIM FM
+http://radiostream.usim.edu.my:1935/Radio@usim/myStream/media_w255819432_124568.ts
+
+#---------------------SPORT
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson][_____SPORTS_____][/COLOR]"  group-title="SPORTS",[COLOR crimson][_____SPORTS_____][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/154573_05545fa47ee582fa1dd346de481b5a85/m3u8s/154573.m3u8
 
@@ -209,3 +232,5 @@ rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNjoyNSB
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNzo0NSBQTSZoYXNoX3ZhbHVlPThiV3VyRm9GOWxxRVVVUEFQOUtiZ2c9PSZ2YWxpZG1pbnV0ZXM9MjA=/amc9.stream
 #EXTINF:0,Animal Planet
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1MDo1NiBQTSZoYXNoX3ZhbHVlPU0zS2QwVFRmOU1Ba3libnMxUm5rVFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/animal.stream
+
+
