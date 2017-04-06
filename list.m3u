@@ -4,13 +4,13 @@
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" tvg-name="RTM TV2"  group-title="MALAYSIA",TV2
-http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/media_w227034169_b1000000_sleng_2748.ts
+http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w1046318068_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm1.staticflickr.com/682/23349929165_09a2573288_o.png" tvg-name="TV 3"  group-title="MALAYSIA",TV3
-https://hls.ustreamix.com/tmg.m3u8?stream=tv3-malaysia&expired=a15d5454a29f52f0ea3d9fc513f780d8&token=24cdf4e5e7560a8e52643a499395263f
+https://ustreamix.com/tmg.m3u8?stream=tv3-malaysia&token=3fcccffa6b63c3e93fdce1c86a303e67
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm6.staticflickr.com/5649/23266549891_c95f64f7a9_o.png" tvg-name="TV 9"  group-title="MALAYSIA",TV9
-https://hls.ustreamix.com/tmg.m3u8?stream=tv9-malaysia&expired=ece840750153696622f1a91c654a41ee&token=24cdf4e5e7560a8e52643a499395263f
+https://hls.ustreamix.com/tmg.m3u8?stream=tv9-malaysia&token=24cdf4e5e7560a8e52643a499395263f
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png" tvg-name="RTM MUZIK AKTIF"  group-title="MALAYSIA",MUZIK AKTIF
 http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
