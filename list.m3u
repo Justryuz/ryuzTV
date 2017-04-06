@@ -21,6 +21,9 @@ http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://lh3.googleusercontent.com/qFX_QBu2CB3ZLDDRpGbA8BO_P2nWa2Qhp-HoCgzHg9DoaHo2w6kzSUXwd8oz04q2JLI=w300" tvg-name="Astro GoShop"  group-title="MALAYSIA",GOSHOP
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_GOSHOP_8_04.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png" tvg-name="BERNAMA"  group-title="MALAYSIA",BERNAMA
 http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
 
