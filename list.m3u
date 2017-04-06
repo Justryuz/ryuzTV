@@ -4,7 +4,10 @@
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" tvg-name="RTM TV2"  group-title="MALAYSIA",TV2
-http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/media_w227034169_b1000000_sleng_2559.ts
+http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/media_w227034169_b1000000_sleng_2748.ts
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm1.staticflickr.com/682/23349929165_09a2573288_o.png" tvg-name="TV 3"  group-title="MALAYSIA",TV3
+https://hls.ustreamix.com/tmg.m3u8?stream=tv3-malaysia&expired=61e55d2f894094b5cdf0294e0995aa7e&token=24cdf4e5e7560a8e52643a499395263f
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png" tvg-name="RTM TVi"  group-title="MALAYSIA",TVi
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
