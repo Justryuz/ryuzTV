@@ -22,13 +22,13 @@ http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/awani.jpg" tvg-name="Astro Awani"  group-title="MALAYSIA",Astro AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/astrogo.jpg" tvg-name="Astro GoShop"  group-title="MALAYSIA",Astro GoShop
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/astrogo.png" tvg-name="Astro GoShop"  group-title="MALAYSIA",Astro GoShop
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_GOSHOP_8_04.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/ria.jpg" tvg-name="Astro Ria"  group-title="MALAYSIA",Astro Ria
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/ria.png" tvg-name="Astro Ria"  group-title="MALAYSIA",Astro Ria
 http://go.layarku.tv/ria.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/prima.jpg" tvg-name="Prima"  group-title="MALAYSIA",Astro Prima
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/prima.png" tvg-name="Prima"  group-title="MALAYSIA",Astro Prima
 http://go.layarku.tv/prima.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/oasis.png" tvg-name="Astro Oasis"  group-title="MALAYSIA",Astro Oasis
@@ -40,7 +40,7 @@ http://go.layarku.tv/warna.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/mustikahd.png" tvg-name="Mustika HD"  group-title="MALAYSIA",Mustika HD
 http://go.layarku.tv/mustikahd.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.livenewsus.com/wp-content/uploads/2016/09/Aljazera-Arabic-Live-Stream.png" tvg-name="Al Jazeera ENG HD"  group-title="MALAYSIA",Al Jazeera ENGLISH
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.livenewsus.com/wp-content/uploads/2016/09/Aljazera-Arabic-Live-Stream.png" tvg-name="AlJazeeraENG HD"  group-title="MALAYSIA",AlJazeeraENG HD
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
 
