@@ -26,7 +26,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_GOSHOP_8_04.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/ria.png" tvg-name="Astro Ria"  group-title="MALAYSIA",Astro Ria
-http://go.layarku.tv/ria.m3u8
+http://www.layarku.tv/media/ria.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/prima.png" tvg-name="Prima"  group-title="MALAYSIA",Astro Prima
 http://go.layarku.tv/prima.m3u8
