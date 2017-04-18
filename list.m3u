@@ -114,13 +114,13 @@ http://124.82.221.149:8000/;stream.mp3
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://emojipedia-us.s3.amazonaws.com/cache/5a/7c/5a7c231c9ef788612ce69016edec5a2a.png" tvg-name="SINGAPORE TV"  group-title="SINGAPORE TV",Singapore
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.singaporelaughteryoga.com/resources/media-crop5-logo-1.jpg" tvg-name="CHANNEL 5"  group-title="Singapore",CHANNEL 5
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.singaporelaughteryoga.com/resources/media-crop5-logo-1.jpg" tvg-name="Channel 5"  group-title="Singapore",Channel 5
 http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch517-04-17UYC.smil/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://video.toggle.sg/image/5166818/16x9/947/533/e298594e61926869a7a2e9b2ab5d3073/qA/channel-8.png" tvg-name="Channel 8"  group-title="Singapore",Channel 8
 http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch817-04-17UYC.smil/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://video.toggle.sg/image/5166822/16x9/947/533/537008fc7e5d07098bee94c3fa9ef241/kw/channel-newsasia.png" tvg-name="NewsAsia"  group-title="Singapore",NewsAsia
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://video.toggle.sg/image/5166822/16x9/947/533/537008fc7e5d07098bee94c3fa9ef241/kw/channel-newsasia.png" tvg-name="NewsAsia"  group-title="Singapore",News Asia
 http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna17-04-17UYC.smil/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://video.toggle.sg/image/5308024/16x9/947/533/8cec3061b2409fad0d7664c7bb185808/gk/channel-u.png" tvg-name="Channel U"  group-title="Singapore",Channel U
