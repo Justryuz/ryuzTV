@@ -45,8 +45,21 @@ http://go.layarku.tv/mustikahd.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.livenewsus.com/wp-content/uploads/2016/09/Aljazera-Arabic-Live-Stream.png" tvg-name="AlJazeeraENG HD"  group-title="MALAYSIA",AlJazeeraENG HD
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/810_300.png" tvg-name="ASTRO SUPERSPORT 1"  group-title="Malaysia",ASTRO SUPERSPORT 1
-plugin://plugin.video.f4mTester/?url=http://bit.do/astrosp1&amp;streamtype=TSDOWNLOADER
+#------------#
+# HBO / Fox
+#------------#
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/08/HBO_HD_new_logo.png/revision/latest?cb=20140706180314" tvg-name="HBO 1"  group-title="Malaysia",HBO
+http://31.204.128.112:8081/live/hbo/playlist.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/08/HBO_HD_new_logo.png/revision/latest?cb=20140706180314" tvg-name="HBO 2"  group-title="Malaysia",HBO
+http://37.203.209.34:443/mobile/flash20/live.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/08/HBO_HD_new_logo.png/revision/latest?cb=20140706180314" tvg-name="HBO 3"  group-title="Malaysia",HBO
+http://80.82.78.16:8081/live/hbo/playlist.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.fox.com/sites/default/files/fox_logo_1.jpg" tvg-name="FOX"  group-title="Malaysia",fox
+http://37.203.209.34:443/mobile/flash29/live.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.fox.com/sites/default/files/fox_logo_1.jpg" tvg-name="FOX 2"  group-title="Malaysia",fox
+http://31.204.128.112:8081/live/fox/playlist.m3u8
 
 #------------#
 #Radio
@@ -149,3 +162,10 @@ https://livestream-hybrid.akamaized.net/live/smil:antv.smil/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" tvg-name="Berita Satu"  group-title="Indonesia",Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://user.photos.s3.amazonaws.com/user_38589.jpg" tvg-name="Global TV"  group-title="Indonesia",Global TV
+http://live.metube.id/tv/channel2000041/index1024.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://user.photos.s3.amazonaws.com/user_38589.jpg" tvg-name="Global TV"  group-title="Indonesia",Global TV
+http://live.metube.id/tv/channel2000041/index1024.m3u8
+
