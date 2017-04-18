@@ -7,7 +7,7 @@
 #IPTV MALAYSIA
 #------------#
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="MALAYSIA TV"  group-title="MALAYSIA TV",Malaysia
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://emojipedia-us.s3.amazonaws.com/cache/a6/f4/a6f418f3e0321852d98bab09d33edd93.png" tvg-name="MALAYSIA TV"  group-title="MALAYSIA TV",Malaysia
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/tv1.png" tvg-name="RTM TV1"  group-title="MALAYSIA",TV1
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
@@ -113,7 +113,7 @@ http://124.82.221.149:8000/;stream.mp3
 #Singapore TV
 #------------#
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="SINGAPORE TV"  group-title="SINGAPORE TV",Singapore
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://emojipedia-us.s3.amazonaws.com/cache/5a/7c/5a7c231c9ef788612ce69016edec5a2a.png" tvg-name="SINGAPORE TV"  group-title="SINGAPORE TV",Singapore
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.singaporelaughteryoga.com/resources/media-crop5-logo-1.jpg" tvg-name="CHANNEL 5"  group-title="CHANNEL 5",Singapore
 http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch517-04-17UYC.smil/playlist.m3u8
@@ -140,19 +140,10 @@ http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87okto17-04-17UYC.smil/playlist.
 #INDONESIA TV
 #------------#
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="INDONESIA TV"  group-title="INDONESIA TV",Indonesia
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://emojipedia-us.s3.amazonaws.com/cache/bd/d1/bdd1fefbd80bddd45c22b209bb622063.png" tvg-name="INDONESIA TV"  group-title="INDONESIA TV",Indonesia
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Antv_logo_%282017%29.png" tvg-name="ANTV"  group-title="Indonesia",ANTV
 https://livestream-hybrid.akamaized.net/live/smil:antv.smil/master.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" tvg-name="Berita Satu"  group-title="Indonesia",Berita Satu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.indostreamix.com/wp-content/uploads/2016/06/beritasatu-world-407x229.png" tvg-name="Berita Satu World"  group-title="Indonesia",Berita Satu World
-http://www.beritasatu.com/playstream.php?channel=world
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1024px-CNN_Indonesia.svg.png" tvg-name="CNN Indonesia"  group-title="Indonesia",CNN Indonesia
-http://live.cnnindonesia.com/livecnn/cnn_live_tv1.sdp/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" tvg-name="Berita Satu"  group-title="Indonesia",Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8
