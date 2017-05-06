@@ -1,7 +1,7 @@
 #EXTM3U
 
 #IPTV Filter by Justryuz
-#14 April 2017 / 6.22 PM
+#06 May 2017 / 8.58 PM
 
 #------------#
 #IPTV MALAYSIA
@@ -18,6 +18,9 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w1046318068_
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/tv3.png" tvg-name="TV3"  group-title="MALAYSIA",TV3
 #http://live2.layarku.tv:8077/streams/d/TV3/playlist.m3u8 <-- fix 
 https://mir.hulkfiles.com/tmg.m3u8?stream=tv3-malaysia&expired=569f0b37a9d049e10cbd6417aba65594&token=c839da46b5858e9a8b14fda15e90aa1e
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="TV Al Hijrah"  group-title="MALAYSIA",TV Al Hijrah
+http://tvah-cdn.mynexa.my/tvahlive/_definst_/smil:tvah04.smil/chunklist_b746000_slen.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/bernama.jpg" tvg-name="BERNAMA TV"  group-title="MALAYSIA",BERNAMA
 http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
@@ -45,6 +48,43 @@ http://go.layarku.tv/mustikahd.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.livenewsus.com/wp-content/uploads/2016/09/Aljazera-Arabic-Live-Stream.png" tvg-name="AlJazeeraENG HD"  group-title="MALAYSIA",AlJazeeraENG HD
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+
+#---------
+#
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.livenewsus.com/wp-content/uploads/2016/09/Aljazera-Arabic-Live-Stream.png" tvg-name="Fox Crime HD"  group-title="#",Fox Crime HD
+http://128.199.141.194:8081/live-freetv2/48773319e9324602b258e3f1d33ec111.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDE3IDc6MzQ6NDUgQU0maGFzaF92YWx1ZT1PQnppVk9KbXZsTnVQYkZhVjl3VmJ3PT0mdmFsaWRtaW51dGVzPTEwMDA=
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Fox Movie HD"  group-title="#",Fox Movie HD
+http://103.233.194.204:8081/2u-live2/foxmovie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDE3IDc6MzQ6NDUgQU0maGFzaF92YWx1ZT1PQnppVk9KbXZsTnVQYkZhVjl3VmJ3PT0mdmFsaWRtaW51dGVzPTEwMDA=
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Fox Action HD"  group-title="#",Fox Action HD
+http://128.199.141.194:8081/live-freetv2/206105b34a1c44b886c6cd3c59105803.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDE3IDc6MzQ6NDUgQU0maGFzaF92YWx1ZT1PQnppVk9KbXZsTnVQYkZhVjl3VmJ3PT0mdmFsaWRtaW51dGVzPTEwMDA=
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Fox HD"  group-title="MALAYSIA",Fox HD
+http://128.199.141.194:8081/live-freetv2/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Star World"  group-title="MALAYSIA",Star World
+http://128.199.141.194:8081/live-freetv2/65f7358b813048a0898f5677e1793cf9.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDE3IDc6MzQ6NDUgQU0maGFzaF92YWx1ZT1PQnppVk9KbXZsTnVQYkZhVjl3VmJ3PT0mdmFsaWRtaW51dGVzPTEwMDA=
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="SyFy"  group-title="MALAYSIA",SyFy
+http://128.199.141.194:8081/live-freetv2/71f197de056e499a85265c03b44bdab1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDE3IDc6MzQ6NDUgQU0maGFzaF92YWx1ZT1PQnppVk9KbXZsTnVQYkZhVjl3VmJ3PT0mdmFsaWRtaW51dGVzPTEwMDA=
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Universal"  group-title="MALAYSIA",Universal
+http://128.199.141.194:8081/live-freetv2/a7105ed1bb0a44bba1f4f71f2352b892.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDE3IDc6MzQ6NDUgQU0maGFzaF92YWx1ZT1PQnppVk9KbXZsTnVQYkZhVjl3VmJ3PT0mdmFsaWRtaW51dGVzPTEwMDA=
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="AXN"  group-title="MALAYSIA",AXN
+http://103.233.194.204:8081/2u-live2/axn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDE3IDc6MzQ6NDUgQU0maGFzaF92YWx1ZT1PQnppVk9KbXZsTnVQYkZhVjl3VmJ3PT0mdmFsaWRtaW51dGVzPTEwMDA=
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Astro Supersport 1"  group-title="MALAYSIA",Astro Supersport 1
+http://103.233.194.203:8081/2u-live/assp1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDE3IDc6MzQ6NDUgQU0maGFzaF92YWx1ZT1PQnppVk9KbXZsTnVQYkZhVjl3VmJ3PT0mdmFsaWRtaW51dGVzPTEwMDA=
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Astro Supersport 2"  group-title="MALAYSIA",Astro Supersport 2
+http://103.233.194.203:8081/2u-live/assp2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDE3IDc6MzQ6NDUgQU0maGFzaF92YWx1ZT1PQnppVk9KbXZsTnVQYkZhVjl3VmJ3PT0mdmFsaWRtaW51dGVzPTEwMDA=
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Astro Supersport 3"  group-title="MALAYSIA",Astro Supersport 3
+http://103.233.194.203:8081/2u-live/assp3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDE3IDc6MzQ6NDUgQU0maGFzaF92YWx1ZT1PQnppVk9KbXZsTnVQYkZhVjl3VmJ3PT0mdmFsaWRtaW51dGVzPTEwMDA=
+
 
 #------------#
 #Radio
@@ -116,10 +156,10 @@ http://124.82.221.149:8000/;stream.mp3
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://emojipedia-us.s3.amazonaws.com/cache/5a/7c/5a7c231c9ef788612ce69016edec5a2a.png" tvg-name="SINGAPORE TV"  group-title="SINGAPORE TV",Singapore
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.singaporelaughteryoga.com/resources/media-crop5-logo-1.jpg" tvg-name="Channel 5"  group-title="Singapore",Channel 5
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch517-04-17UYC.smil/playlist.m3u8
+http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/index_4_av-b.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://video.toggle.sg/image/5166818/16x9/947/533/e298594e61926869a7a2e9b2ab5d3073/qA/channel-8.png" tvg-name="Channel 8"  group-title="Singapore",Channel 8
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch817-04-17UYC.smil/playlist.m3u8
+http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/index_4_av-b.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://video.toggle.sg/image/5166822/16x9/947/533/537008fc7e5d07098bee94c3fa9ef241/kw/channel-newsasia.png" tvg-name="NewsAsia"  group-title="Singapore",News Asia
 http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna17-04-17UYC.smil/playlist.m3u8
@@ -158,3 +198,128 @@ http://live.metube.id/tv/channel2000041/index1024.m3u8
 #Testing Stream
 #------------#
 
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=beinmovies1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=beinmovies2
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=beinmovies3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=hbohd
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=syfy
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=skymoviespremiere
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=skymoviesselect
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=skymoviesfamily
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=skymoviesdisney
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=skymoviescrime
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=skymoviesaction
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=history
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=animalplanet
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=axn
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=natgeo
+
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=beinmovies1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=beinmovies2
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=beinmovies3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=beinmovies4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=beinmovies5
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=beinmovies6
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=beinmovies7
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=beinmovies8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=beinmovies9
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=beinmovies10
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=beinmovies11
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=beinmovies12
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=beinmovies13
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=wwenetwork
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=skysports1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=skysports2
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=skysports3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=skysports4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=skysports5
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=btsport1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=btsport2
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=btsportespn
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=foxsports1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=foxsports2
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=eurosport
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Beta Channel"  group-title="MALAYSIA",Beta Channel
+http://www.layarperak.tv/media/livehd.m3u8?media=eurosport2
