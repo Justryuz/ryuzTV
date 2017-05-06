@@ -16,7 +16,8 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w1046318068_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/tv3.png" tvg-name="TV3"  group-title="MALAYSIA",TV3
-http://live2.layarku.tv:8077/streams/d/TV3/playlist.m3u8
+#http://live2.layarku.tv:8077/streams/d/TV3/playlist.m3u8 <-- fix 
+https://mir.hulkfiles.com/tmg.m3u8?stream=tv3-malaysia&expired=ea6573dd307a7755ec4f16c7dc6b9a34&token=c839da46b5858e9a8b14fda15e90aa1e
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/bernama.jpg" tvg-name="BERNAMA TV"  group-title="MALAYSIA",BERNAMA
 http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
