@@ -1,7 +1,7 @@
 #EXTM3U
 
 #IPTV Filter by Justryuz
-#14 April 2017 / 6.22 PM
+#14 April 2017 / 11.34 PM
 
 #------------#
 #IPTV MALAYSIA
@@ -17,22 +17,18 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w1046318068_
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/tv3.png" tvg-name="TV3"  group-title="MALAYSIA",TV3
 #http://live2.layarku.tv:8077/streams/d/TV3/playlist.m3u8  <-- fix 
-#https://raw.githubusercontent.com/Justryuz/ryuzTV/master/tv3.png
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=475200
-https://www.layarku.tv/media/tv3sec.php?url=http://tv3iossecure-i.akamaihd.net/hls/live/225715/ios/tv3ios_sp/master.m3u8?hdnea=st=1494080558~exp=1494080648~acl=/hls/live/225715/ios/tv3ios_sp/*~hmac=a0b454408b6476aedc9c8c5451668e3da7462b25055ca82a2812015b0520e880
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1390400
-https://www.layarku.tv/media/tv3sec.php?url=http://tv3iossecure-i.akamaihd.net/hls/live/225715/ios/tv3ios_sp/master.m3u8?hdnea=st=1494080558~exp=1494080648~acl=/hls/live/225715/ios/tv3ios_sp/*~hmac=a0b454408b6476aedc9c8c5451668e3da7462b25055ca82a2812015b0520e880
+https://mir.hulkfiles.com/tmg.m3u8?stream=tv3-malaysia&expired=8d84b2811ba72f8270255d966322b98e&token=c839da46b5858e9a8b14fda15e90aa1e 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png" tvg-name="TV7"  group-title="MALAYSIA",TV7
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png" tvg-name="NTV7"  group-title="MALAYSIA",NTV7
 http://go.layarku.tv/ntv7m.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png" tvg-name="TV7"  group-title="MALAYSIA",TV7
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png" tvg-name="8TV"  group-title="MALAYSIA",8TV
 http://go.layarku.tv/8tvm.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png" tvg-name="TV9"  group-title="MALAYSIA",TV9
 http://go.layarku.tv/tv9m.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="TV Al Hijrah"  group-title="MALAYSIA",TV Al Hijrah
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png" tvg-name="TV Al Hijrah"  group-title="MALAYSIA",TV Al Hijrah
 http://tvah-cdn.mynexa.my/tvahlive/_definst_/smil:tvah04.smil/chunklist_b746000_slen.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/bernama.jpg" tvg-name="BERNAMA TV"  group-title="MALAYSIA",BERNAMA
@@ -59,22 +55,19 @@ http://go.layarku.tv/warna.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/mustikahd.png" tvg-name="Mustika HD"  group-title="MALAYSIA",Mustika HD
 http://go.layarku.tv/mustikahd.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.livenewsus.com/wp-content/uploads/2016/09/Aljazera-Arabic-Live-Stream.png" tvg-name="AlJazeeraENG HD"  group-title="MALAYSIA",AlJazeeraENG HD
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.livenewsus.com/wp-content/uploads/2016/09/Aljazera-Arabic-Live-Stream.png" tvg-name="Al Jazeera HD"  group-title="MALAYSIA",Al Jazeera HD
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Action Cinema Malaysia "  group-title="Other",Action Cinema Malaysia
 http://live.gslb.letv.com/gslb?stream_id=lb_dzdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Channel News Asia"  group-title="Other",Channel News Asia
-http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/index_4_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Hits Channel "  group-title="Other",Hits Channel
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" tvg-name="Hits "  group-title="Other",Hits Channel
 http://live.gslb.letv.com/gslb?stream_id=pay_hits_5000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Kix"  group-title="Other",Kix
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm.jpeg" tvg-name="Kix"  group-title="Other",Kix
 http://27.254.63.162/stream/totnew.php?channel_id=e584e0adae6440eab366f5fe3a824f91
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="AFC"  group-title="Other",AFC
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.asianfoodchannel.com/application/themes/afc_fresh/images/afc-logo.svg" tvg-name="AFC"  group-title="Other",AFC
 http://cd190.live99.top/live/057.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="HBO Comedy"  group-title="Other",HBO Comedy
@@ -108,7 +101,7 @@ http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/index_4_av-p.m3u8?sd=10&reba
 http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/index_4_av-b.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://video.toggle.sg/image/5166822/16x9/947/533/537008fc7e5d07098bee94c3fa9ef241/kw/channel-newsasia.png" tvg-name="NewsAsia"  group-title="Singapore",News Asia
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna17-04-17UYC.smil/playlist.m3u8
+http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/index_4_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://video.toggle.sg/image/5308024/16x9/947/533/8cec3061b2409fad0d7664c7bb185808/gk/channel-u.png" tvg-name="Channel U"  group-title="Singapore",Channel U
 http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/index_4_av-p.m3u8?sd=10&rebase=on
@@ -126,8 +119,6 @@ http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87okto17-04-17UYC.smil/playlist.
 #INDONESIA TV
 #------------#
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://emojipedia-us.s3.amazonaws.com/cache/bd/d1/bdd1fefbd80bddd45c22b209bb622063.png" tvg-name="INDONESIA TV"  group-title="INDONESIA TV",Indonesia
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Antv_logo_%282017%29.png" tvg-name="ANTV"  group-title="Indonesia",ANTV
 https://livestream-hybrid.akamaized.net/live/smil:antv.smil/master.m3u8
 
@@ -137,8 +128,23 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://user.photos.s3.amazonaws.com/user_38589.jpg" tvg-name="Global TV"  group-title="Indonesia",Global TV
 http://live.metube.id/tv/channel2000041/index1024.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://user.photos.s3.amazonaws.com/user_38589.jpg" tvg-name="Global TV"  group-title="Indonesia",Global TV
-http://live.metube.id/tv/channel2000041/index1024.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_kompastv_zpspbla9f1l.png" tvg-name="Kompas TV"  group-title="Indonesia",Kompas TV
+https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_metro_tv_zpsfy2zhqxw.png" tvg-name="METRO TV"  group-title="Indonesia",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1078060783_b1300000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_mnc_tv_zpshi58jhma.png" tvg-name="MNC TV"  group-title="Indonesia",MNC TV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://user.photos.s3.amazonaws.com/user_38589.jpg" tvg-name="RCTI TV"  group-title="Indonesia",RCTI TV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index512.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_trans_7_zpsn7frpupf.png" tvg-name="Trans 7"  group-title="Indonesia",Trans 7
+https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_trans_tv_zpsef7hiuqo.png" tvg-name="Trans TV"  group-title="Indonesia",Trans TV
+https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/master.m3u8
 
 
 #------------#
