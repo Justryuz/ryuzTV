@@ -70,29 +70,27 @@ http://27.254.63.162/stream/totnew.php?channel_id=e584e0adae6440eab366f5fe3a824f
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.asianfoodchannel.com/application/themes/afc_fresh/images/afc-logo.svg" tvg-name="AFC"  group-title="Other",AFC
 http://cd190.live99.top/live/057.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="HBO Comedy"  group-title="Other",HBO Comedy
-http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/624.ts
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://tvprofil.net/img/kanali-logo/hbo-comedy-logo.png" tvg-name="HBO Comedy"  group-title="Other",HBO Comedy
+http://freeeucache.streamlive.to/live/a1wn1j3ra1w0cv0/index.m3u8?st=gQeLXjbZ6L3MA5Lu5OyaSw&expires=149409701014940970101494097010
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="HBO Family"  group-title="Other",HBO Family
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" tvg-name="HBO Family"  group-title="Other",HBO Family
 http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/623.ts
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="HBO Signature"  group-title="Other",HBO Signature
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-name="HBO Signature"  group-title="Other",HBO Signature
 http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/642.ts
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="Nicktoons"  group-title="Other",Nicktoons
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/my-favorite-logos/images/c/c5/NickToons_TV.png" tvg-name="Nicktoons"  group-title="Other",Nicktoons
 http://208.86.19.13:8080/live/15.stream/index.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="TNT"  group-title="Other",TNT
-http://208.86.19.13:8080/live/16.stream/index.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/4/41/TNT_logo_2008.png" tvg-name="TNT"  group-title="Other",TNT
+http://freeeucache.streamlive.to/live/6q4jlbqwvxuingo/48616.ts?st=XzOROsNcMyyxskGoQBeyKw&expires=149409715214940971521494097152
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="#" tvg-name="HBO Signature"  group-title="Other",Discovery Channel
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.jpg" tvg-name="Discovery Channel"  group-title="Other",Discovery Channel
 http://208.86.19.13:8080/live/31.stream/index.m3u8
 
 #------------#
 #Singapore TV
 #------------#
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://emojipedia-us.s3.amazonaws.com/cache/5a/7c/5a7c231c9ef788612ce69016edec5a2a.png" tvg-name="SINGAPORE TV"  group-title="SINGAPORE TV",Singapore
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.singaporelaughteryoga.com/resources/media-crop5-logo-1.jpg" tvg-name="Channel 5"  group-title="Singapore",Channel 5
 http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/index_4_av-p.m3u8?sd=10&rebase=on
