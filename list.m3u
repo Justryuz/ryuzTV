@@ -16,10 +16,12 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/tv2.png" tvg-name="RTM TV2"  group-title="MALAYSIA",TV2
 http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w1046318068_b1000000_sleng.m3u8
+https://tv3iossecure-i.akamaihd.net/hls/live/225715/ios/tv3ios_sp/20170429T103735/master503/00032/master503_01311.ts
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/tv3.png" tvg-name="TV3"  group-title="MALAYSIA",TV3
-https://tv3iossecure-i.akamaihd.net/hls/live/225715/ios/tv3ios_sp/master.m3u8?hdnea=st=1494269480~exp=1494269570~acl=%2Fhls%2Flive%2F225715%2Fios%2Ftv3ios%5fsp%2F*~hmac=cbe3d4d3fb61f4f5c126d54a6aff08448ac078a8a50d9de431cc4f64230d3fa1
-#https://mir.hulkfiles.com/tmg.m3u8?stream=tv3-malaysia&expired=8d84b2811ba72f8270255d966322b98e&token=c839da46b5858e9a8b14fda15e90aa1e 
+#https://tv3iossecure-i.akamaihd.net/hls/live/225715/ios/tv3ios_sp/master.m3u8?hdnea=st=1494269480~exp=1494269570~acl=%2Fhls%2Flive%2F225715%2Fios%2Ftv3ios%5fsp%2F*~hmac=cbe3d4d3fb61f4f5c126d54a6aff08448ac078a8a50d9de431cc4f64230d3fa1
+#https://mir.hulkfiles.com/tmg.m3u8?stream=tv3-malaysia&expired=8d84b2811ba72f8270255d966322b98e&token=c839da46b5858e9a8b14fda15e90aa1e
+https://tv3iossecure-i.akamaihd.net/hls/live/225715/ios/tv3ios_sp/master501.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png" tvg-name="NTV7"  group-title="MALAYSIA",NTV7
 http://go.layarku.tv/ntv7m.m3u8
