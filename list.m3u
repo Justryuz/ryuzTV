@@ -9,14 +9,11 @@
 
 #EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< MALAYSIA >>>>>>>>>>>>>>>>>>>[/COLOR]
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://emojipedia-us.s3.amazonaws.com/cache/a6/f4/a6f418f3e0321852d98bab09d33edd93.png" tvg-name="MALAYSIA TV"  group-title="MALAYSIA TV",Malaysia
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/tv1.png" tvg-name="RTM TV1"  group-title="MALAYSIA",TV1
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/tv2.png" tvg-name="RTM TV2"  group-title="MALAYSIA",TV2
 http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w1046318068_b1000000_sleng.m3u8
-https://tv3iossecure-i.akamaihd.net/hls/live/225715/ios/tv3ios_sp/20170429T103735/master503/00032/master503_01311.ts
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/tv3.png" tvg-name="TV3"  group-title="MALAYSIA",TV3
 https://tv3iossecure-i.akamaihd.net/hls/live/225715/ios/tv3ios_sp/master503.m3u8
@@ -31,7 +28,7 @@ http://go.layarku.tv/8tvm.m3u8
 http://go.layarku.tv/tv9m.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png" tvg-name="TV Al Hijrah"  group-title="MALAYSIA",TV Al Hijrah
-http://tvah-cdn.mynexa.my/tvahlive/_definst_/smil:tvah04.smil/chunklist_b746000_slen.m3u8
+https://tvah.viredge.com/tvahlive/smil:tvahlive.smil/chunklist_b446000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/ryuzTV/master/bernama.jpg" tvg-name="BERNAMA TV"  group-title="MALAYSIA",BERNAMA
 http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
